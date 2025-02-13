@@ -220,7 +220,7 @@ p.note { display: none; }
 <h2><span class="yellow">タイ北端部の移動経路</span></h2>
 <a href="IMG_4171.jpg" target="_blank"><img src="IMG_4171.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">メコン川を渡った先の移動経</span></h2>
+<h2><span class="yellow">メコン川を渡った先の移動経路</span></h2>
 <a href="IMG_4173.jpg" target="_blank"><img src="IMG_4173.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">宿の建物は裏山が食い込むダイナミックな作り</span></h2>
