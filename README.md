@@ -173,7 +173,7 @@ p.note { display: none; }
 <a href="IMG_4145.jpg" target="_blank"><img src="IMG_4145.jpg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4146.jpg" target="_blank"><img src="IMG_4146.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">てづづきをすませて出国</span></h2>
+<h2><span class="yellow">手続きをすませて出国</span></h2>
 <a href="IMG_4147.jpg" target="_blank"><img src="IMG_4147.jpg" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">この車でメコン川を渡って国境越え</span></h2>
