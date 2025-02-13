@@ -330,6 +330,8 @@ p.note { display: none; }
 <a href="IMG_4244.jpg" target="_blank"><img src="IMG_4244.jpg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4245.jpg" target="_blank"><img src="IMG_4245.jpg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4246.jpg" target="_blank"><img src="IMG_4246.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">水面上はラオスの領土で、向こう岸の陸のところからがタイの領土とのこと</span></h2>
 <a href="IMG_4247.jpg" target="_blank"><img src="IMG_4247.jpg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4248.jpg" target="_blank"><img src="IMG_4248.jpg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4249.jpg" target="_blank"><img src="IMG_4249.jpg" alt="サンプル画像" width="900" /></a>
